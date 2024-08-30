@@ -39,6 +39,6 @@ ATTRIBUTES:
 ![image](https://github.com/user-attachments/assets/9ea021f6-9846-4bb3-a7ac-3c118dace73b)
 
 
-Result:
+RESULT:
 
 Thus, sentimental analysis for the given data using Rapidminer is done successfully.
